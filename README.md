@@ -26,7 +26,9 @@ Then activate the environment  by
   ```--include_length```:LSTM is True others False/default.  
   ```--sort_within_batch```:LSTM is True others False/default.  
   ```--batch_size```:training/validation batch size.  
-  ```--pretrained_emb```:LSTM is glove.6B.100d.   
+  ```--pretrained_emb```:LSTM is glove.6B.100d.  
+  
+  
 **Run Project with Parameters:**  
 &nbsp;&nbsp;&nbsp;&nbsp;**LSTM:**  
   ```Python
@@ -38,7 +40,7 @@ Then activate the environment  by
   ```   
   
 **Reference**  
-<https://github.com/bentrevett/pytorch-sentiment-analysis>
+<https://github.com/bentrevett/pytorch-sentiment-analysis> 
   
 
   
